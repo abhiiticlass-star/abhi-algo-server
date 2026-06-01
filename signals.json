@@ -1,0 +1,10 @@
+{
+  "market_status": "OPEN",
+  "asset": "EUR/USD",
+  "timeframe": "1m",
+  "signal": "WAIT",
+  "confidence": 0,
+  "call_percent": 50,
+  "put_percent": 50,
+  "history": []
+}
